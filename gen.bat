@@ -1,5 +1,5 @@
 echo off & setlocal EnableDelayedExpansion
-title Mr-Cuda password generator
+title Mr-Cuda password generator-really simple
 chcp 1257
 SET maxvalue=108
 SET minvalue=32
